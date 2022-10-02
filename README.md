@@ -68,6 +68,8 @@
 
   [![build](https://github.com/Reversabled/vue-test-app/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/Reversabled/vue-test-app/actions/workflows/main.yml)
   
+  [![N | flow](https://github.com/Reversabled/node-bot/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/Reversabled/node-bot/actions/workflows/build.yml)
+  
   [![build](https://github.com/Reversabled/vue-test-app/actions/workflows/build.yml/badge.svg)](https://github.com/Reversabled/vue-test-app/actions/workflows/build.yml)
   
 ###### Чтобы воспользоваться гитом, надо его установить
